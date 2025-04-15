@@ -1,0 +1,11 @@
+{
+    "typescript.preferences.importModuleSpecifier": "shortest",
+    "javascript.preferences.importModuleSpecifier": "shortest",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+      "source.fixAll.eslint": "explicit"
+    },
+    "eslint.format.enable": true,
+    "eslint.validate": ["javascript", "typescript", "typescriptreact"]
+  }
+  
